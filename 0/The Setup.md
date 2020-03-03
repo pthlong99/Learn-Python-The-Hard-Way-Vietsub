@@ -8,4 +8,7 @@ Link tải: https://www.python.org/downloads/
 
 Tải và cài đặt.
 hahahah
+vl
+vkv
+vk\
 ### Cài PATH
