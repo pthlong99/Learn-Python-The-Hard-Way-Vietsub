@@ -12,7 +12,7 @@ print ('I "said" do not touch this.')
 ```
 Mỗi text editor khác nhau thì đoạn code bạn nhập vào sẽ trông khác nhau.  
 >Ví dụ khi bạn viết code bằng notepad thì nó trông như thế này:  
-![picture alt](./image/2.png)  
+![picture alt](./image/2.PNG)  
 
 >Còn đây là khi dùng SublineText:  
 ![picture alt](./image/1.PNG)  
