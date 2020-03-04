@@ -18,6 +18,7 @@
 **Chú ý một vài trường hợp đặc biệt**
 
 *1. Chuỗi có dạng là 1 Comment*
+
   ![picture alt](./image/4.PNG)
 
   Ở trường hợp này, khi đặt (#) trong cặp dấu ngoặc kép (“ ”), chương trình sẽ hiểu là dấu (#) là ký tự mà chúng ta muốn in ra như một chuỗi bình thường. Do đó, nó cũng sẽ in ra dấu (#) và không bỏ qua những thứ bên phải dấu (#).
