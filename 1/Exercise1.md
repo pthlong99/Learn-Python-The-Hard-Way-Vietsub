@@ -34,7 +34,8 @@ Hãy nhìn vào output nó sẽ cho chúng ta biết lỗi xuất hiện ở dò
 Nếu bạn để ý kĩ sẽ thấy dấu (^) chỉ ra rằng trong dòng thứ 3 thì lỗi nằm ở vị trí đó. Ở đây lỗi này là do thiếu dấu nháy (") kết thúc chuỗi. Nếu bạn không thể nhận ra được lỗi sau khi xem output thì hãy copy thông báo lỗi và tìm kiếm nó trên google, có thể cũng sẽ có người mắc lỗi đó và từ đó bạn có thể sửa được.
 >SyntaxError: EOL while scanning string literal
 
-Nếu bạn gặp vấn đề khi viết tiếng việt mà khi lưu file lại bị lỗi hiển thị ![picture alt](./image/5.png)
+Nếu bạn gặp vấn đề khi viết tiếng việt mà khi lưu file lại bị lỗi hiển thị ![picture alt](./image/5.PNG)
+
 Cách khắc phục: Khi lưu file hãy chuyển encoding của file đó về UTF-8
 ![picture alt](./image/6.PNG)
 
