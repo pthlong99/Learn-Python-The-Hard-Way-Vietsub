@@ -4,7 +4,7 @@
 
 ### [Exercise 0: The Setup]()
 
-### [Exercise 1: A Good First Program]()
+### [Exercise 1: A Good First Program](.1/The%20Setup.md)
 
 ### [Exercise 2: Comments And Pound Characters]()
 
