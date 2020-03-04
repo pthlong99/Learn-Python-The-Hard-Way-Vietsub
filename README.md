@@ -6,7 +6,7 @@
 
 ### [Exercise 1: A Good First Program](./1/Exercise1.md)
 
-### [Exercise 2: Comments And Pound Characters]()
+### [Exercise 2: Comments And Pound Characters](./2/Exercise2.md)
 
 ### [Exercise 3: Numbers And Math]()
 
