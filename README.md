@@ -6,7 +6,7 @@
 
 ### [Exercise 1: A Good First Program](./1/The-Setup.md)
 
-### [Exercise 2: Comments And Pound Characters]()
+### [Exercise 2: Comments And Pound Characters](./2/Exercise2.md)
 
 ### [Exercise 3: Numbers And Math]()
 
@@ -107,4 +107,3 @@
 ### [Exercise 51: Getting Input From A Browser]()
 
 ### [Exercise 52: The Start Of Your Web Game]()
-
