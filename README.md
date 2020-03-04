@@ -8,7 +8,7 @@
 
 ### [Exercise 2: Comments And Pound Characters](./2/Exercise2.md)
 
-### [Exercise 3: Numbers And Math]()
+### [Exercise 3: Numbers And Math](./3/Exercise3.md)
 
 ### [Exercise 4: Variables And Names]()
 
