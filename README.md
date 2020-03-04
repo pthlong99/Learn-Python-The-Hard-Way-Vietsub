@@ -8,7 +8,7 @@
 
 ### [Exercise 2: Comments And Pound Characters]()
 
-### [Exercise 3: Numbers And Math]()
+### [Exercise 3: Numbers And Math](./3/Exercise3.md)
 
 ### [Exercise 4: Variables And Names]()
 
@@ -107,4 +107,3 @@
 ### [Exercise 51: Getting Input From A Browser]()
 
 ### [Exercise 52: The Start Of Your Web Game]()
-
