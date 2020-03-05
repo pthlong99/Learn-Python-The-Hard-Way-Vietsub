@@ -12,7 +12,7 @@
 
 ### [Exercise 4: Variables And Names](./4/Exercise4.md)
 
-### [Exercise 5: More Variables And Printing]()
+### [Exercise 5: More Variables And Printing](./5/Exercis5.md)
 
 ### [Exercise 6: Strings And Text]()
 
