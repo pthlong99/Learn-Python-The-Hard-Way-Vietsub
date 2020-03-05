@@ -10,7 +10,7 @@
 
 ### [Exercise 3: Numbers And Math](./3/Exercise3.md)
 
-### [Exercise 4: Variables And Names]()
+### [Exercise 4: Variables And Names](./4/Exercise4.md)
 
 ### [Exercise 5: More Variables And Printing]()
 
