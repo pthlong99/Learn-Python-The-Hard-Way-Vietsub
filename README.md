@@ -14,7 +14,7 @@
 
 ### [Exercise 5: More Variables And Printing](./5/Exercis5.md)
 
-### [Exercise 6: Strings And Text]()
+### [Exercise 6: Strings And Text](./6/Exercise6.md)
 
 ### [Exercise 7: More Printing]()
 
