@@ -18,7 +18,7 @@
 
 ### [Exercise 7: More Printing](./7/Exercise7.md)
 
-### [Exercise 8: Printing, Printing]()
+### [Exercise 8: Printing, Printing](./8/Exercise8.md)
 
 ### [Exercise 9: Printing, Printing, Printing]()
 
