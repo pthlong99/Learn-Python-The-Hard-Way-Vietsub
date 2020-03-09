@@ -22,7 +22,7 @@
 
 ### [Exercise 9: Printing, Printing, Printing]()
 
-### [Exercise 10: What Was That?]()
+### [Exercise 10: What Was That?](./10/Exercise10.md)
 
 ### [Exercise 11: Asking Questions]()
 
