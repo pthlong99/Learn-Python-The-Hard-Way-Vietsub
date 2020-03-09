@@ -20,7 +20,7 @@
 
 ### [Exercise 8: Printing, Printing](./8/Exercise8.md)
 
-### [Exercise 9: Printing, Printing, Printing]()
+### [Exercise 9: Printing, Printing, Printing](./9/Exercise9.md)
 
 ### [Exercise 10: What Was That?]()
 
