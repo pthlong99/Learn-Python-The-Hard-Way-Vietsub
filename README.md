@@ -28,7 +28,7 @@
 
 ### [Exercise 12: Prompting People]()
 
-### [Exercise 13: Parameters, Unpacking, Variables]()
+### [Exercise 13: Parameters, Unpacking, Variables](./13/Exercise13.md)
 
 ### [Exercise 14: Prompting And Passing]()
 
