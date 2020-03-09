@@ -36,7 +36,7 @@ Dưới đây là danh sách các ký tự thoát trong python:
 |Ký tự thoát|Mô tả|
 |:---------:|:----|
 |\n|Xuống dòng|
-|\\|Dấu gạch chéo ngược|
+| \\\ |Dấu gạch chéo ngược|
 |\'|Dấu nháy đơn|
 |\"|Dấu nháy kép|
 |\a|ASCII Bell|
