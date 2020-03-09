@@ -16,7 +16,7 @@
 
 ### [Exercise 6: Strings And Text](./6/Exercise6.md)
 
-### [Exercise 7: More Printing]()
+### [Exercise 7: More Printing](./7/Exercise7.md)
 
 ### [Exercise 8: Printing, Printing]()
 
