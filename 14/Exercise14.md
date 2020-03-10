@@ -34,3 +34,13 @@ print(result)
 **Sau khi chạy chương trình sẽ có kết quả tương tự như này:**
 
 ![picture alt](./image/1.PNG)
+
+Lưu ý rằng trong bài tập này biến prompting để lưu lời nhắc cho những câu lệnh input(), trong nhiều trường hợp lời nhắc được sử dụng đi sử dụng lại thì hãy làm như thế để tiết kiệm thời gian, ngoài ra bạn cũng có thể thay đổi tất cả các lời nhắc bằng cách thay đổi giá trị biến prompting.
+
+### Thắc mắc bạn đọc ###
+
+**1. Có thể sử dụng dấu " " cho biến prompting không?**
+  Tất nhiên rồi, hãy thử xem.
+
+**2. Tôi gặp lỗi "NameError: name 'prompt' is not defined" khi tôi chạy chương trình, phải làm như thế nào?**
+  Hãy xem lại tên biến dùng để lưu lời nhắc của bạn, chắc rằng bạn đã gọi đúng tên biến đó.
