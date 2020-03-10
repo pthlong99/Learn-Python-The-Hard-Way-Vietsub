@@ -30,7 +30,7 @@
 
 ### [Exercise 13: Parameters, Unpacking, Variables]()
 
-### [Exercise 14: Prompting And Passing]()
+### [Exercise 14: Prompting And Passing](./14/Exercise14.md)
 
 ### [Exercise 15: Reading Files]()
 
