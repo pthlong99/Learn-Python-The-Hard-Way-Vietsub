@@ -26,7 +26,7 @@
 
 ### [Exercise 11: Asking Questions](./11/Exercise11.md)
 
-### [Exercise 12: Prompting People]()
+### [Exercise 12: Prompting People](./12/Exercise12.md)
 
 ### [Exercise 13: Parameters, Unpacking, Variables]()
 
