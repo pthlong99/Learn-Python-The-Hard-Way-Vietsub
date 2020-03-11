@@ -12,7 +12,7 @@
 
 ### [Exercise 4: Variables And Names](./4/Exercise4.md)
 
-### [Exercise 5: More Variables And Printing](./5/Exercis5.md)
+### [Exercise 5: More Variables And Printing](./5/Exercise5.md)
 
 ### [Exercise 6: Strings And Text](./6/Exercise6.md)
 
@@ -38,7 +38,7 @@
 
 ### [Exercise 17: More Files](./17/Exercise17.md)
 
-### [Exercise 18: Names, Variables, Code, Functions]()
+### [Exercise 18: Names, Variables, Code, Functions](./18/Exercise18.md)
 
 ### [Exercise 19: Functions And Variables]()
 

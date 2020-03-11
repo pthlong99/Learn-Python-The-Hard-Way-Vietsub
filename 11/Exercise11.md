@@ -24,9 +24,11 @@ Kết quả sẽ như sau:
 ### Thắc mắc bạn đọc ###
 
 **1. Làm như thế nào để dữ liệu nhập vào là kiểu number?**
+
   Một lời khuyên nho nhỏ cho bạn, thử dùng int(input()) xem. Nó sẽ nhận vào 1 string và chuyển nó sang kiểu dữ liệu number.
 
 **2. Sự khác biệt giữa input và raw_input là gì?**
+
   Ở python 2 thì input() không những nhận vào dữ liệu và nó còn tao tác luôn với dữ liệu:
   >Ví dụ:
   >```python
@@ -37,4 +39,4 @@ Kết quả sẽ như sau:
   >```
 
   Điều này làm ảnh hưởng đến sự bảo mật của dữ liệu.
-  Ở python 3 thì raw_input() đã bị thay thế bằng input(). Trong những bài viết của mình dầu dùng python 3. 
+  Ở python 3 thì raw_input() đã bị thay thế bằng input(). Trong những bài viết của mình dầu dùng python 3.

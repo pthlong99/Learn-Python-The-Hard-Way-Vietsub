@@ -20,7 +20,9 @@ Có thể là 3 dòng, cũng có thể 4 hay 5.
 ### Thắc mắc bạn đọc ###
 
 **1. Nếu tôi muốn tháng "Một" cũng bắt đầu trên một dòng mới như 11 tháng còn lại thì phải làm như thế nào?**
+
   Điều này hết sức đơn giản, bạn chỉ việc thêm "\n" vào trước "Một"(\nMột) như 11 tháng còn lại là được,
 
 **2. Tại sao "\n" không hoạt động khi tôi sử dụng %r?**
+
   Điều này là do cơ chế hoạt động của %r, nó sẽ in ra đúng như in những gì bạn đã nhập, nó cho rằng đây là dữ liệu dạng thô.

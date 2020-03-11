@@ -40,14 +40,16 @@ Hầu hết toán tử số học của các ngôn ngữ lập trình đều gi�
 
 **1. Tại sao ký tự % là "Phép chia lấy dư" chứ không phải "Phần trăm"**
 
-Điều này là do người thiết kế ngôn ngữ này quy định. Trong văn bản bình thường ký tự % là "phần trăm", như trong "100%" là "một trăm phần trăm". Trong lập trình, ký hiệu % là thể hiện của phép chia lấy dư.
+  Điều này là do người thiết kế ngôn ngữ này quy định. Trong văn bản bình thường ký tự % là "phần trăm", như trong "100%" là "một trăm phần trăm". Trong lập trình, ký hiệu % là thể hiện của phép chia lấy dư.
 
 **2. Phép toán % "Phép chia lấy dư" hoạt động như thế nào?**
 
-Phép chia lấy dư "%" là cách khác để nói "a  chia cho b còn lại ". Như trong ví dụ "5 chia cho 2 còn lại 1(5 % 2 = 1)" .
+  Phép chia lấy dư "%" là cách khác để nói "a  chia cho b còn lại ". Như trong ví dụ "5 chia cho 2 còn lại 1(5 % 2 = 1)" .
 
 **3. Thứ tự thực hiện các phép toán là gì?**
-Ở Mỹ, người ta sử dụng 1 từ viết tắt là PEMDAS, là chữ viết tắt của Parentheses - ngoặc đơn, Exponents - số mũ, Multiplication - phép nhân, Divison - phép chia, Addition - phép cộng, Subtraction - phép trừ. Nó giống với ưu tiên thực hiện phép toán trong toán học.
+
+  Ở Mỹ, người ta sử dụng 1 từ viết tắt là PEMDAS, là chữ viết tắt của Parentheses - ngoặc đơn, Exponents - số mũ, Multiplication - phép nhân, Divison - phép chia, Addition - phép cộng, Subtraction - phép trừ. Nó giống với ưu tiên thực hiện phép toán trong toán học.
 
 **4. Tại sao phép chia (/) lại làm tròn xuống?**
-Phép chia (/) là phép chia lấy phần nguyên vậy lên kết quả sẽ bị làm tròn xuống .
+
+  Phép chia (/) là phép chia lấy phần nguyên vậy lên kết quả sẽ bị làm tròn xuống .

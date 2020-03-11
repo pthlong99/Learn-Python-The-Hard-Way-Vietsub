@@ -44,7 +44,9 @@ print("Giới tính: ", sex, " ||sex là tên biến hợp lệ.")
 ### Thắc mắc bạn đọc ###
 
 **1. Có thể viết "x=100" thay vì "x = 100" không?**
+
 Tất nhiên là được rồi, nhưng bạn vẫn nên viết "x = 100" hơn, bởi vì viết như này tạo độ thoáng cho chương trình của bạn, giúp người đọc dễ theo dõi hơn.
 
 **2. Sự khác biết giữa "=" và "==" là gì?**
+
 Hiểu đơn giản thì "=" dùng để gán giá trị như chúng ta vừa làm, còn "==" dùng để kiểm tra xem giá trị của 2 biến có bằng nhau hay không. Vấn đề này sẽ được nói rõ hơn trong những bài sau.
