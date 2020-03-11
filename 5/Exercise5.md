@@ -42,5 +42,7 @@ Kết quả sẽ như thế này:
 ![picture alt](./image/4.PNG)
 
 ### Bạn đọc thắc mắc ###
+
 **1. s, d trong "%s" và "%d" là gì?**
+
   s, d là chữ cái đầu trong định dạng kiểu của biến s : String, d : Decimal, và còn nhiều ký tự khác, chúng ta sẽ học điều này trong bài các kiểu của biến trong python.

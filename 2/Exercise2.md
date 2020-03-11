@@ -40,3 +40,9 @@ Tuy nhiên, ở Sublime Text bạn đã được hỗ trợ để hiển thị t
 *Kết quả chương trình:*
 
 ![picture alt](./image/2.PNG)
+
+### Thắc mắc bạn đọc ###
+
+**1. Làm như thế nào để tôi có thể comment nhiều dòng trong python**
+
+  Đặt vào đầu mỗi dòng cần comment 1 ký tự #.

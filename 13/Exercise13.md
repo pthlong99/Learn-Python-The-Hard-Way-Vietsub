@@ -42,6 +42,9 @@ Quay trở lại ví dụ:
 ### Thắc mắc bạn đọc ###
 
 **1. Khi làm ví dụ giống như bài viết, lúc chạy chương trình có thông báo lỗi "ValueError: need more than 3 values to unpack", hãy giải thích tại sao lại có lỗi này?**
+
   Hãy xem lại phần thông số nhập vào khi chạy chương trình của bạn có thiếu cái nào không. Lỗi này sảy ra khi bạn giải nén biến argv mà không đủ giá trị để gán cho các biến. Ví dụ như khi chạy file Exercise13.py bạn nhập vào thêm 2 thông số "python Exercise13.py Long 21" nhưng trong chương trình bạn lại giải nén ra 4 biến "script, name, age, id_student = argv" thì đương nhiên nó sẽ lỗi bởi vì làm gì có giá trị để gán cho biến id_student.
+  
 **2. Sự khác biệt giữa input() và argv là gì?**
+
     Nếu bạn muốn thêm thông số luôn khi bắt đầu chạy chương trình thì sử dụng argv, ngược lại bạn ưa thích nhập dữ liệu vào khi chương trình đang chạy thì sử dụng input().

@@ -34,10 +34,13 @@ print(kitu_9 + kitu_10 + kitu_11 + kitu_12)
 ### Thắc mắc bạn đọc ###
 
 **1. Từ khóa "end" hoạt động như thế nào?**
+
   Khi bạn gọi đến từ kháo "end" trong print sau khi kết thúc việc in ra màn hình thì ký tự ngắt dòng của bạn sẽ được thay thế bằng ký tự đặt ở trong " " của từ khóa "end".
 
 **2. Tại sao trong ví dụ mình lại sử dụng biến có tên "Trần Minh Nhật.", biến lại vi phạm quy tắc đặt tên mà?**
+
   Đó thực sự không phải là tên 1 biến, đó là 1 chuỗi, như mình đã nói tên biến không thể bắt đầu bằng kí tự đặc biệt trừ ký tự gạch dưới.
 
 **3. Tôi có thể dùng ' '(ngoặc đơn), thay vì " "(ngoặc kép) để tạo ra 1 chuỗi không??**
+
   Tất nhiên là có rồi, python không phân biệt " " và ' ', nhưng những lập lình viên thường sử dụng ' ' để tạo 1 ký tự hoặc 1 chuỗi ngắn có 1 từ ('a', 'Từ') còn " " để tạo 1 chuỗi dài có nhiều từ.

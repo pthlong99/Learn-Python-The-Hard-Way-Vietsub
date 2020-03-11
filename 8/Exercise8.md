@@ -19,7 +19,9 @@ print (dinh_dang %("Mình là Nhật.",
 ### Thắc mắc bạn đọc ###
 
 **1. Tôi nên dùng %r hay %s để định dạng?**
+
   Bạn nên sử dụng %s, chỉ nên dùng %r để định dạng những dữ liệu mà chưa rõ kiểu của nó(dữ liệu dạng thô).
 
 **2. Tại sao phải dùng ' ' cho 'Một','Hai'... mà không dùng cho True và False?**
+
   Nếu như bạn đã tìm hiểu về các biến trong python, thì hẳn bạn phải biết True, False là 2 giá trị của biến kiểu Boolean. Python nhận ra được điều đó nên không cần đặt True và False vào trong dấu ' '.

@@ -28,3 +28,9 @@ print("chuoi_1 + chuoi_2 = ",chuoi_3)
 **Cùng xem kết quả nhé:**
 
 ![picture alt](./image/3.PNG)
+
+### Thắc mắc bạn đọc ###
+
+**1. Sự khác biệt giữa %r và %s là gì?**
+
+  %s là định dạng dữ liệu kiểu chuỗi(string), còn %r là định dạng dữ liệu kiểu thô(raw).

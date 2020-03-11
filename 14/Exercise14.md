@@ -40,7 +40,9 @@ Lưu ý rằng trong bài tập này biến prompting để lưu lời nhắc ch
 ### Thắc mắc bạn đọc ###
 
 **1. Có thể sử dụng dấu " " cho biến prompting không?**
+
   Tất nhiên rồi, hãy thử xem.
 
 **2. Tôi gặp lỗi "NameError: name 'prompt' is not defined" khi tôi chạy chương trình, phải làm như thế nào?**
+
   Hãy xem lại tên biến dùng để lưu lời nhắc của bạn, chắc rằng bạn đã gọi đúng tên biến đó.

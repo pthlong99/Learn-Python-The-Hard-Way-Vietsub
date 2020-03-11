@@ -58,4 +58,5 @@ Hóa %f """ %(name, age, avg_point, math_point, physic_point, chemic_point)
 ### Thắc mắc từ bạn đọc ###
 
 **1. Tại sao tôi không thể viết print("Nhập tuổi của bạn: "), input()?**
+
   Đơn giản vì python không hiểu được điều bạn muốn nó thực hiện.

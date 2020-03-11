@@ -40,17 +40,23 @@ Cách khắc phục: Khi lưu file hãy chuyển encoding của file đó về U
 ![picture alt](./image/6.PNG)
 
 # Những điều mà bạn đọc thường hay thắc mắc #
+
 Đây là những câu hỏi mà chúng tôi thu thập được trong thực tế của nhiều người khi đọc bài viết này, bạn có thể gặp phải 1 số trong này vì vậy chúng tôi đã thông kê và trả lời.
 
-### Có nên sử dụng IDLE để lập trình python không? #
-Câu trả lời là không, bạn nên sử dụng Terminal trên OSX và PowerShell trên Windows, giống như tôi làm vậy. Bời vì những bài viết sau này tôi đều làm việc trên đó. Nếu bạn không biết cách sử dụng Terminal hãy đọc lại bài viết trước.
-### Làm như thế nào để chương trình của tôi có màu sắc đep, dễ nhìn hơn ? ###
-Hãy cài 1 số Editor text như Notepad++, SublineText, ...và hãy nhớ lưu file dưới dạng(.py)  
+**1. Có nên sử dụng IDLE để lập trình python không?**
 
-### Tôi không thể chạy được file python trên máy của mình ###
-Hãy chắc rằng python đã được cài đặt vào trong máy của bạn. Có thể video này sẽ giúp ích cho bạn [https://www.youtube.com/watch?v=ndNlFy-5GKA](https://www.youtube.com/watch?v=ndNlFy-5GKA)
+  Câu trả lời là không, bạn nên sử dụng Terminal trên OSX và PowerShell trên Windows, giống như tôi làm vậy. Bời vì những bài viết sau này tôi đều làm việc trên đó. Nếu bạn không biết cách sử dụng Terminal hãy đọc lại bài viết trước.
+
+**2. Làm như thế nào để chương trình của tôi có màu sắc đep, dễ nhìn hơn ?**
+
+  Hãy cài 1 số Editor text như Notepad++, SublineText, ...và hãy nhớ lưu file dưới dạng(.py)  
+
+**3. Tôi không thể chạy được file python trên máy của mình?**
+
+  Hãy chắc rằng python đã được cài đặt vào trong máy của bạn. Có thể video này sẽ giúp ích cho bạn [https://www.youtube.com/watch?v=ndNlFy-5GKA](https://www.youtube.com/watch?v=ndNlFy-5GKA)
 
 # Bài tập #
+
 1. Làm cho chương trình của bạn hiển thị 1 nội dung khác.
 2. Làm cho nội dung của bạn chỉ hiện thị trên 1 dòng.
 3. Hãy thử thêm # vào đầu dòng xem nó đã làm gì?
