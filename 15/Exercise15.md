@@ -31,3 +31,13 @@ print(txt_again.read())
 Kết quả:
 
 ![picture alt](./image/1.PNG)
+
+### Thắc mắc bạn đọc ###
+
+**1. Khi chạy chương trình tôi gặp lỗi "UnicodeDecodeError: 'charmap' codec can't decode byte X in position Y: character maps to <undefined>", hãy giải thích cho tôi đây là lỗi gì, cách khắc phục ra sao?**
+
+  Đây là lỗi về encoding, nó sảy ra khi nội dung file mà bạn muốn đọc ở dạng encoding khác chương trình. Để khắc phục lỗi này khi mở file hãy thêm encoding của file cần mở như trong ví dụ.
+
+**2. Tại sao không có lỗi khi tôi mở một file nhiều lần?**
+
+  Đây là một điều thú vị của python, nó hỗ trợ mở file nhiều lần để phục vụ những trường hợp cần thiết trong thực tiễn.
