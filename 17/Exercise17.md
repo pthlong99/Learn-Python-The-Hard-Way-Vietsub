@@ -34,3 +34,14 @@ Kết quả khi chạy chương trình:
 Nội dung 2 file sau khi chạy chương trình:
 
 ![picture alt](./image/3.PNG)
+
+### Thắc mắc bạn đọc ###
+
+**1. Hàm len() có tác dụng gì?**
+  Như bạn thấy trong ví dụ thì hàm len() trả về độ dài của một chuỗi.
+
+**2. Tại sao hàm len() lại trả về được dung lượng của file?**
+  Đừng nhầm lẫn nhé, ở đây hàm len() sẽ trả về đồ dài của chuỗi nội dung có trong file, đặc biệt ở chỗ độ dài cảu chuỗi đúng bằng dung lượng của file lưu nó (vì 1 ký tự kiểu char có dung lượng 1 bytes mà chuỗi thì gồm nhiều ký tự).
+
+**3. Câu lệnh "from os.path import exists" có tác dụng gì?**
+  Đây là câu lệnh khai báo module "os.path", đây là module hỗ trợ kiểm tra xem file có tồn tại hay không.
