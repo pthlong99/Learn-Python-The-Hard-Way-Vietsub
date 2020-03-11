@@ -36,7 +36,7 @@
 
 ### [Exercise 16: Reading And Writing Files](./16/Exercise16.md)
 
-### [Exercise 17: More Files]()
+### [Exercise 17: More Files](./17/Exercise17.md)
 
 ### [Exercise 18: Names, Variables, Code, Functions]()
 
