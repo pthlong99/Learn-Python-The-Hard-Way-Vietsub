@@ -56,7 +56,7 @@
 
 ### [Exercise 26: Congratulations, Take A Test!]()
 
-### [Exercise 27: Memorizing Logic]()
+### [Exercise 27: Memorizing Logic](./27/Exercise27.md)
 
 ### [Exercise 28: Boolean Practice]()
 
