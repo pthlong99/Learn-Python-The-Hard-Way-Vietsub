@@ -48,7 +48,7 @@
 
 ### [Exercise 22: What Do You Know So Far?]()
 
-### [Exercise 23: Read Some Code]()
+### [Exercise 23: Read Some Code](./23/Exercise23.md)
 
 ### [Exercise 24: More Practice]()
 
