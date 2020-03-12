@@ -50,7 +50,7 @@
 
 ### [Exercise 23: Read Some Code]()
 
-### [Exercise 24: More Practice]()
+### [Exercise 24: More Practice](./24/Exercise24.md)
 
 ### [Exercise 25: Even More Practice]()
 
