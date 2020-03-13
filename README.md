@@ -60,7 +60,7 @@
 
 ### [Exercise 28: Boolean Practice]()
 
-### [Exercise 29: What If]()
+### [Exercise 29: What If](./29/Exercise29.md)
 
 ### [Exercise 30: Else And If]()
 
