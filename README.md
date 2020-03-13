@@ -58,7 +58,7 @@
 
 ### [Exercise 27: Memorizing Logic]()
 
-### [Exercise 28: Boolean Practice]()
+### [Exercise 28: Boolean Practice](./28/Exercise28.md)
 
 ### [Exercise 29: What If]()
 
