@@ -44,7 +44,7 @@
 
 ### [Exercise 20: Functions And Files]()
 
-### [Exercise 21: Functions Can Return Something]()
+### [Exercise 21: Functions Can Return Something](./21/Exercise21.md)
 
 ### [Exercise 22: What Do You Know So Far?](./22/Exercise22.md)
 
