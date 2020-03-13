@@ -52,7 +52,7 @@
 
 ### [Exercise 24: More Practice]()
 
-### [Exercise 25: Even More Practice]()
+### [Exercise 25: Even More Practice](./25/Exercise25.md)
 
 ### [Exercise 26: Congratulations, Take A Test!](./26/Exercise26.md)
 
