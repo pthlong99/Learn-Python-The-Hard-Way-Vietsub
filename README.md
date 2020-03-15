@@ -66,7 +66,7 @@
 
 ### [Exercise 31: Making Decisions]()
 
-### [Exercise 32: Loops And Lists]()
+### [Exercise 32: Loops And Lists](./32/Exercise32.md)
 
 ### [Exercise 33: While Loops]()
 
