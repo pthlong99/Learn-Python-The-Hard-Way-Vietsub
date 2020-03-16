@@ -72,7 +72,7 @@
 
 ### [Exercise 34: Accessing Elements Of Lists]()
 
-### [Exercise 35: Branches and Functions]()
+### [Exercise 35: Branches and Functions](./35/Exercise35.md)
 
 ### [Exercise 36: Designing and Debugging]()
 
