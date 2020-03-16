@@ -70,7 +70,7 @@
 
 ### [Exercise 33: While Loops]()
 
-### [Exercise 34: Accessing Elements Of Lists]()
+### [Exercise 34: Accessing Elements Of Lists](./34/Exercise34.md)
 
 ### [Exercise 35: Branches and Functions]()
 
