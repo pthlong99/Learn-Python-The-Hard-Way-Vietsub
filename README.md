@@ -68,7 +68,7 @@
 
 ### [Exercise 32: Loops And Lists](./32/Exercise32.md)
 
-### [Exercise 33: While Loops]()
+### [Exercise 33: While Loops](./33/Exercise33.md)
 
 ### [Exercise 34: Accessing Elements Of Lists]()
 
