@@ -64,7 +64,7 @@
 
 ### [Exercise 30: Else And If]()
 
-### [Exercise 31: Making Decisions]()
+### [Exercise 31: Making Decisions](./30/Exercise31.md)
 
 ### [Exercise 32: Loops And Lists]()
 
