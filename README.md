@@ -74,7 +74,7 @@
 
 ### [Exercise 35: Branches and Functions](./35/Exercise35.md)
 
-### [Exercise 36: Designing and Debugging]()
+### [Exercise 36: Designing and Debugging](./36/Exercise36.md)
 
 ### [Exercise 37: Symbol Review]()
 
