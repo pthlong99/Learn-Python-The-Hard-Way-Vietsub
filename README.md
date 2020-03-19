@@ -42,7 +42,7 @@
 
 ### [Exercise 19: Functions And Variables](./19/Exercise19.md)
 
-### [Exercise 20: Functions And Files]()
+### [Exercise 20: Functions And Files](./20/Exercise20.md)
 
 ### [Exercise 21: Functions Can Return Something](./21/Exercise21.md)
 
