@@ -80,7 +80,7 @@
 
 ### [Exercise 38: Doing Things To Lists](./38/Exercise38.md)
 
-### [Exercise 39: Dictionaries, Oh Lovely Dictionaries]()
+### [Exercise 39: Dictionaries, Oh Lovely Dictionaries](./39/Exercise39.md)
 
 ### [Exercise 40: Modules, Classes, And Objects]()
 
