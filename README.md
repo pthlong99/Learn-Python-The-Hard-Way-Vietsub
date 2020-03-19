@@ -78,7 +78,7 @@
 
 ### [Exercise 37: Symbol Review](./37/Exercise37.md)
 
-### [Exercise 38: Doing Things To Lists]()
+### [Exercise 38: Doing Things To Lists](./38/Exercise38.md)
 
 ### [Exercise 39: Dictionaries, Oh Lovely Dictionaries]()
 
