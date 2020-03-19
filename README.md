@@ -76,7 +76,7 @@
 
 ### [Exercise 36: Designing and Debugging](./36/Exercise36.md)
 
-### [Exercise 37: Symbol Review]()
+### [Exercise 37: Symbol Review](./37/Exercise37.md)
 
 ### [Exercise 38: Doing Things To Lists]()
 
