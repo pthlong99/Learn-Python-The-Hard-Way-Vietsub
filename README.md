@@ -62,7 +62,7 @@
 
 ### [Exercise 29: What If](./29/Exercise29.md)
 
-### [Exercise 30: Else And If]()
+### [Exercise 30: Else And If](./30/Exercise30.md)
 
 ### [Exercise 31: Making Decisions](./30/Exercise31.md)
 
