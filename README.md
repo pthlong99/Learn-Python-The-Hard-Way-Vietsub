@@ -84,7 +84,7 @@
 
 ### [Exercise 40: Modules, Classes, And Objects]()
 
-### [Exercise 41: Learning To Speak Object Oriented]()
+### [Exercise 41: Learning To Speak Object Oriented](./41/Exercise41.md)
 
 ### [Exercise 42: Is-A, Has-A, Objects, and Classes]()
 
