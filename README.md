@@ -82,7 +82,7 @@
 
 ### [Exercise 39: Dictionaries, Oh Lovely Dictionaries](./39/Exercise39.md)
 
-### [Exercise 40: Modules, Classes, And Objects]()
+### [Exercise 40: Modules, Classes, And Objects](./40/Exercise40.md)
 
 ### [Exercise 41: Learning To Speak Object Oriented]()
 
